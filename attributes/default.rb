@@ -1,5 +1,5 @@
 # Installation directory
-default['wordpress']['dir'] = '/var/www/foundthemes.dev/'
+default['wordpress']['dir'] = '/var/www/donaldtrunk.dev/'
 
 # WordPress installation type
 default['wordpress']['version'] = 'trunk'
@@ -11,7 +11,7 @@ default['wordpress']['password'] = 'admin'
 default['wordpress']['email']    = 'admin@domain.com'
 
 # DB information
-default['wordpress']['db_name']  = 'foundthemes.dev'
+default['wordpress']['db_name']  = 'donaldtrunk.dev'
 default['wordpress']['db_user']  = 'root'
 default['wordpress']['db_pass']  = 'root'
 default['wordpress']['db_host']  = 'localhost'
